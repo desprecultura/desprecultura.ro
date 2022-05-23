@@ -1,8 +1,10 @@
 ---
-title: Acasa
+title: Acasă
 nav_order: 1
 ---
 
 # Asociația Ghizilor și Managerilor Culturali
 
-Pagina in construcție
+Pagină în construcție.
+
+Contact: <office@desprecultura.ro>
