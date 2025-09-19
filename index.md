@@ -3,8 +3,10 @@ title: Acasă
 nav_order: 1
 ---
 
-## Pagina oficială a Asociației Ghizilor și Managerilor Culturali (CIF: 45866679)  
-### The official page of the Cultural Guides and Managers Association (Fiscal Identification Code: 45866679)
+## Pagina oficială a Asociației Ghizilor și Managerilor Culturali
+## (CIF: 45866679)  
+### The official page of the Cultural Guides and Managers Association
+### (Fiscal Identification Code: 45866679)
 
 
 Asociația Ghizilor și Managerilor Culturali (AGMC) promovează cultura românească și internațională prin educație, dialog și evenimente dedicate publicului larg și specialiștilor. Ne propunem să contribuim la profesionalizarea ghizilor și managerilor culturali, respectând principiile egalității, demnității și incluziunii. Dorim să creăm un spațiu în care arta și patrimoniul cultural devin accesibile tuturor.
